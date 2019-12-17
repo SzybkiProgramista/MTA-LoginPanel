@@ -1,8 +1,0 @@
-<meta>
-  <info name="LoginPanel" author="Hammel" />
-
-  <script src="player.lua" type="server" />
-  <script src="server.lua" type="server" />
-
-  <script src="client.lua" type="client" />
-</meta>
